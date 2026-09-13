@@ -56,6 +56,14 @@ python train.py
 python evaluation.py
 ```
 
+## Data Source
+This project uses the **Bank Marketing Dataset** from the UCI Machine Learning Repository, made available under the [Creative Commons Attribution 4.0 International (CC BY 4.0) license](https://creativecommons.org/licenses/by/4.0/).
+
+**Citation:**
+Moro, S., Rita, P., & Cortez, P. (2012). Bank Marketing [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5K306
+
+*Note: The original dataset was modified for this project.*
+
 ## License & Copyright
 © 2026 Beñat Perez Araujo. All rights reserved. 
 This repository is published for portfolio and educational review purposes only. Commercial use, reproduction, or redistribution of this code without explicit prior permission is strictly prohibited.
