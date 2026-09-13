@@ -1,0 +1,4 @@
+Standard ResNet      | Segment: contact    | Time: 0m 19s (19.36 s)
+Standard ResNet      | Segment: nocontact  | Time: 12m 40s (760.96 s)
+ResNet + LENS        | Segment: contact    | Time: 0m 26s (26.82 s)
+ResNet + LENS        | Segment: nocontact  | Time: 33m 18s (1998.39 s)

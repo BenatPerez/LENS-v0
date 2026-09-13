@@ -1,0 +1,10 @@
+Model,Segment,Brier,AUC,ECE,Time(s)
+ResNet + LENS,Global,0.07852,0.77404,0.01182,2025.21
+Standard ResNet,Global,0.09548,0.78079,0.08648,780.32
+XGBoost,Global,0.07717,0.79691,0.0065,1.1169
+ResNet + LENS,VIP (Contact),0.21676,0.64368,0.08089,26.82
+Standard ResNet,VIP (Contact),0.20804,0.68476,0.08952,19.36
+XGBoost,VIP (Contact),0.20787,0.67718,0.08959,0.11084
+ResNet + LENS,Masivo (No Contact),0.07322,0.72841,0.01043,1998.39
+Standard ResNet,Masivo (No Contact),0.09117,0.73746,0.08636,760.96
+XGBoost,Masivo (No Contact),0.07216,0.75718,0.00517,1.00606
